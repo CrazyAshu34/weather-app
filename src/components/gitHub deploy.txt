@@ -1,0 +1,23 @@
+To deploy a React app on GitHub Pages, follow these steps:
+
+Install GitHub Pages: Run npm install gh-pages in your project directory.
+
+Update package.json: Add these lines to set homepage and add deploy script.
+
+json
+Copy code
+"homepage": "https://[username].github.io/[repository-name]",
+"scripts": {
+  "deploy": "gh-pages -d build"
+}
+Build your React App: Run npm run build to create a production-ready build.
+
+Deploy: Execute npm run deploy. This will push the build directory to the gh-pages branch of your GitHub repository.
+
+GitHub Settings: Go to your GitHub repository, navigate to Settings > GitHub Pages, and set the Source to gh-pages branch.
+
+Wait: GitHub will build and deploy your site. It may take a few minutes.
+
+Check: Open the provided GitHub Pages URL in your browser to see if your React app is live.
+
+That's it! Your React app should now be deployed on GitHub Pages.
