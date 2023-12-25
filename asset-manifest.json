@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CrazyAshu34.github.io/weather-react-app/static/css/main.7d103821.css",
+    "main.js": "/CrazyAshu34.github.io/weather-react-app/static/js/main.4e094cf4.js",
+    "static/js/787.d231bba3.chunk.js": "/CrazyAshu34.github.io/weather-react-app/static/js/787.d231bba3.chunk.js",
+    "static/media/cloud.png": "/CrazyAshu34.github.io/weather-react-app/static/media/cloud.20f353f873a9b27949a9.png",
+    "index.html": "/CrazyAshu34.github.io/weather-react-app/index.html",
+    "main.7d103821.css.map": "/CrazyAshu34.github.io/weather-react-app/static/css/main.7d103821.css.map",
+    "main.4e094cf4.js.map": "/CrazyAshu34.github.io/weather-react-app/static/js/main.4e094cf4.js.map",
+    "787.d231bba3.chunk.js.map": "/CrazyAshu34.github.io/weather-react-app/static/js/787.d231bba3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d103821.css",
+    "static/js/main.4e094cf4.js"
+  ]
+}
